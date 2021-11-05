@@ -1,0 +1,26 @@
+{
+  "name": "bus-boy",
+  "version": "1.0.0",
+  "description": "A Simple Bus Route Console Application Made With C++",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christinec-dev/Bus-Boy.git"
+  },
+  "keywords": [
+    "Bus",
+    "CPP",
+    "C",
+    "Plus",
+    "Plus"
+  ],
+  "author": "Christine Coomans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christinec-dev/Bus-Boy/issues"
+  },
+  "homepage": "https://github.com/christinec-dev/Bus-Boy#readme"
+}
